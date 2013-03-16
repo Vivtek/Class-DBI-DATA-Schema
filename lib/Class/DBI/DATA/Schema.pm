@@ -30,7 +30,7 @@ to find and execute all SQL statements in the DATA section of the package.
 use strict;
 use warnings;
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 =head1 METHODS
 
